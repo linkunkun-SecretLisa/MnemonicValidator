@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MnemonicValidator/static/css/main.f855e6bc.css",
+    "main.js": "/MnemonicValidator/static/js/main.aa748911.js",
+    "static/js/453.fa871b5f.chunk.js": "/MnemonicValidator/static/js/453.fa871b5f.chunk.js",
+    "index.html": "/MnemonicValidator/index.html",
+    "main.f855e6bc.css.map": "/MnemonicValidator/static/css/main.f855e6bc.css.map",
+    "main.aa748911.js.map": "/MnemonicValidator/static/js/main.aa748911.js.map",
+    "453.fa871b5f.chunk.js.map": "/MnemonicValidator/static/js/453.fa871b5f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.aa748911.js"
+  ]
+}
